@@ -1,0 +1,16 @@
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\bin\Debug\Resources\icon.png
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\bin\Debug\SurfaceApplication1.xml
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\bin\Debug\SurfaceApplication1.exe
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\bin\Debug\SurfaceApplication1.pdb
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceApplication1.csprojResolveAssemblyReference.cache
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceWindow1.baml
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\App.baml
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceWindow1.g.cs
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\App.g.cs
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceApplication1_Content.g.cs
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceApplication1_MarkupCompile.cache
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceApplication1.g.resources
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceApplication1.Properties.Resources.resources
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceApplication1.csproj.GenerateResource.Cache
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceApplication1.exe
+c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceApplication1.pdb
