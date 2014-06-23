@@ -95,21 +95,24 @@ namespace SurfaceApplication1
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void OnWindowUnavailable(object sender, EventArgs e)
-        {
+        private void OnWindowUnavailable(object sender, EventArgs e) {
             //TODO: disable audio, animations here
         }
 
-        private void SurfaceWindow_Loaded(object sender, RoutedEventArgs e)
-        {
+        private void SurfaceWindow_Loaded(object sender, RoutedEventArgs e) {
 
         }
 
-       
-        private void Games_Click(object sender, RoutedEventArgs e)
-        {
+        private void Games_Click(object sender, RoutedEventArgs e) {
             image3.Visibility = Visibility.Visible;
         }
-        
+
+        private void Tijdschriften_Click(object sender, RoutedEventArgs e) {
+            image1.Visibility = Visibility.Visible;
+        }
+
+        private void Lezen_Click(object sender, RoutedEventArgs e) {
+            image2.Visibility = Visibility.Visible;
+        }
     }
 }

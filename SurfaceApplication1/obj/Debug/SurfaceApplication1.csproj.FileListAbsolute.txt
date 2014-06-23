@@ -14,3 +14,19 @@ c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\Surfac
 c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceApplication1.csproj.GenerateResource.Cache
 c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceApplication1.exe
 c:\users\jeroen\documents\visual studio 2010\Projects\SurfaceApplication1\SurfaceApplication1\obj\Debug\SurfaceApplication1.pdb
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\obj\Debug\SurfaceApplication1.exe
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\obj\Debug\SurfaceApplication1.pdb
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\bin\Debug\Resources\icon.png
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\bin\Debug\SurfaceApplication1.xml
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\bin\Debug\SurfaceApplication1.exe
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\bin\Debug\SurfaceApplication1.pdb
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\obj\Debug\SurfaceApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\obj\Debug\SurfaceWindow1.baml
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\obj\Debug\App.baml
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\obj\Debug\App.g.cs
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\obj\Debug\SurfaceApplication1_Content.g.cs
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\obj\Debug\SurfaceApplication1_MarkupCompile.cache
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\obj\Debug\SurfaceApplication1.g.resources
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\obj\Debug\SurfaceApplication1.Properties.Resources.resources
+C:\Users\Patrick\Documents\GitHub\surfacetable\SurfaceApplication1\obj\Debug\SurfaceApplication1.csproj.GenerateResource.Cache
